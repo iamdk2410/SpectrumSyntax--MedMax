@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctors List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #006d77;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+            padding: 20px;
+            width: 250px;
+            text-align: center;
+            transition: transform 0.2s ease;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .doctor-name {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        .specialization {
+            color: #555;
+            margin-bottom: 10px;
+        }
+        .availability {
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .available {
+            color: green;
+        }
+        .not-available {
+            color: red;
+        }
+        .btn {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .footer {
+    background-color: #0C4F5A;
+    color: #b3c0cb;
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 0.9em;
+    margin-top: 60px;
+border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.1);
+}
+.footer p {
+    margin: 5px 0;
+}
+.footer-link {
+    color: #f39c12;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.footer-link:hover {
+    color: #e67e22;
+    text-decoration: underline;
+}
+@media (min-width: 768px) {
+.main-container {
+    flex-direction: row;
+}
+}
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #006d77;
+  color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+.webnav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.webnav li {
+  padding: 0 10px;
+}
+.webnav a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.1em;
+  font-weight: 600;
+  padding: 10px 15px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  border-radius: 5px;
+}
+.webnav a:hover {
+  background-color: #ff9e2c;
+  color: #000000;
+}
+
+.content-section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+}
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <div class="header">
+            <h1>MedMax</h1>
+        </div>
+        <nav class="webnav">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="healthylife.html">HealthyLife</a></li>
+            <li><a href="doctorappoinment.html">Nearby Docs</a></li>
+            <li><a href="face.html">DocTime</a></li>
+            <li><a href="about.html">About</a></li>
+        </nav>
+    </div>
+    <div class="content-section">
+<h1 style="text-align:center; margin-bottom: 30px;">Doctors List</h1>
+
+<div class="container">
+   
+    <div class="card">
+        <div class="doctor-name">Dr. John Smith</div>
+        <div class="specialization">ENT Specialist</div>
+        <div class="availability available">Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+   
+    <div class="card">
+        <div class="doctor-name">Dr. Sarah Lee</div>
+        <div class="specialization">Cardiologist</div>
+        <div class="availability not-available">Not Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+    
+    <div class="card">
+        <div class="doctor-name">Dr. Michael Brown</div>
+        <div class="specialization">Dermatologist</div>
+        <div class="availability available">Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+   
+    <div class="card">
+        <div class="doctor-name">Dr. Emily White</div>
+        <div class="specialization">Neurologist</div>
+        <div class="availability not-available">Not Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+    
+    <div class="card">
+        <div class="doctor-name">Dr. Daniel Harris</div>
+        <div class="specialization">Orthopedic Surgeon</div>
+        <div class="availability available">Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+   
+    <div class="card">
+        <div class="doctor-name">Dr. Olivia Davis</div>
+        <div class="specialization">Pediatrician</div>
+        <div class="availability available">Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+   
+    <div class="card">
+        <div class="doctor-name">Dr. William Miller</div>
+        <div class="specialization">Oncologist</div>
+        <div class="availability not-available">Not Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+    
+    <div class="card">
+        <div class="doctor-name">Dr. Sophia Wilson</div>
+        <div class="specialization">Gynecologist</div>
+        <div class="availability available">Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+   
+    <div class="card">
+        <div class="doctor-name">Dr. James Taylor</div>
+        <div class="specialization">Psychiatrist</div>
+        <div class="availability available">Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+
+  
+    <div class="card">
+        <div class="doctor-name">Dr. Ava Anderson</div>
+        <div class="specialization">General Physician</div>
+        <div class="availability not-available">Not Available</div>
+        <a href="time.html" class="btn">Call now</a>
+    </div>
+</div>
+</div>
+    <div class="footer">
+        <p>© 2025 MedMax. All rights reserved.</p>
+        <p>An unit of Spectrum Syntax</p>
+    </div>
+</body>
+</html>

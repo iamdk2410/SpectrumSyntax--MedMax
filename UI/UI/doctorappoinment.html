@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nearby Doctors - MedMax</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f3f4f6;
+  overflow: hidden;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  background-color: #ffffff;
+  box-shadow: none;
+  border-radius: 0;
+  overflow: hidden;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #006d77;
+  color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+.webnav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.webnav li {
+  padding: 0 10px;
+}
+.webnav a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.1em;
+  font-weight: 600;
+  padding: 10px 15px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  border-radius: 5px;
+}
+.webnav a:hover {
+  background-color: #ff9e2c;
+  color: #000000;
+}
+#map {
+  flex-grow: 1;
+  height: 100%;
+  position: relative;
+  z-index: 0;
+}
+.leaflet-popup-content button {
+  background-color: #3b82f6;
+  color: #fff;
+  font-weight: 700;
+  padding: 8px 16px;
+  border-radius: 9999px;
+  margin-top: 8px;
+  transition: background-color 200ms ease-in-out;
+  border: none;
+  cursor: pointer;
+}
+.leaflet-popup-content button:hover {
+  background-color: #2563eb;
+}
+#messageBox {
+  position: fixed;
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%) scale(0);
+  padding: 1rem;
+  background-color: #fff;
+  color: #1f2937;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  z-index: 50;
+  transition: transform 300ms ease-out;
+}
+#messageBox p {
+  text-align: center;
+}
+#appointmentForm {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background-color: rgba(17, 24, 39, 0.7);
+  justify-content: center;
+  align-items: center;
+  z-index: 40;
+}
+#appointmentForm.hidden {
+  display: none;
+}
+.appointment-form {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  max-width: 28rem;
+  width: 100%;
+  margin: 0 1rem;
+  animation: fadeIn 0.3s ease-in-out;
+}
+.appointment-form h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  color: #1d4ed8;
+  margin-bottom: 1.5rem;
+}
+.appointment-form input {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #d1d5db;
+}
+.appointment-form input:read-only {
+  background-color: #f3f4f6;
+  color: #374151;
+  font-weight: 500;
+  cursor: not-allowed;
+}
+.appointment-form input:focus {
+  outline: none;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #60a5fa;
+}
+.appointment-form button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  transition: background-color 200ms ease-in-out;
+  border: none;
+  cursor: pointer;
+}
+.appointment-form button:first-of-type {
+  background-color: #2563eb;
+  color: #fff;
+  margin-bottom: 0.75rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.appointment-form button:first-of-type:hover {
+  background-color: #1d4ed8;
+}
+.appointment-form button:last-of-type {
+  color: #4b5563;
+  font-weight: 500;
+  background: none;
+}
+.appointment-form button:last-of-type:hover {
+  color: #1f2937;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.map-legend {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    z-index: 10;
+    font-size: 14px;
+}
+.map-legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.map-legend-icon {
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+    background-size: cover;
+    background-image: url('https://unpkg.com/leaflet/dist/images/marker-icon.png');
+}
+    </style>
+</head>
+<body>
+
+<div class="main-container">
+    <nav class="navbar">
+        <div class="header">
+            <h1>MedMax</h1>
+        </div>
+        <ul class="webnav">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="healthylife.html">HealthyLife</a></li>
+            <li><a href="doctorappoinment.html">Nearby Docs</a></li>
+            <li><a href="face.html">DocTime</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+    <div id="map"></div>
+    <div class="map-legend">
+        <div class="map-legend-item">
+            <div class="map-legend-icon"></div>
+            <span>Nearby Doctor/Clinic</span>
+        </div>
+    </div>
+</div>
+
+<div id="messageBox">
+  <p id="messageText"></p>
+</div>
+
+<div id="appointmentForm" class="hidden">
+  <div class="appointment-form">
+    <h3>Book Appointment</h3>
+    <input type="text" id="doctorName" placeholder="Doctor Name" readonly>
+    <input type="text" id="userName" placeholder="Your Name">
+    <input type="tel" id="userPhone" placeholder="Phone Number">
+    <input type="date" id="appointmentDate">
+    <button onclick="submitAppointment()">Confirm Booking</button>
+    <button onclick="closeForm()">Cancel</button>
+  </div>
+</div>
+
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+    let map = L.map('map').setView([0, 0], 13);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+    function showMessage(message) {
+      const messageBox = document.getElementById('messageBox');
+      const messageText = document.getElementById('messageText');
+      messageText.textContent = message;
+      messageBox.style.transform = 'translateX(-50%) scale(1)';
+      setTimeout(() => {
+        messageBox.style.transform = 'translateX(-50%) scale(0)';
+      }, 3000);
+    }
+
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(position => {
+            let lat = position.coords.latitude;
+            let lon = position.coords.longitude;
+            map.setView([lat, lon], 15);
+            L.marker([lat, lon]).addTo(map).bindPopup("You are here").openPopup();
+            fetch(`https://overpass-api.de/api/interpreter?data=[out:json];node["amenity"~"doctors|clinic|hospital"](around:3000,${lat},${lon});out;`)
+                .then(res => res.json())
+                .then(data => {
+                    data.elements.forEach(place => {
+                        let name = place.tags.name || "Unnamed Doctor/Clinic";
+                        let marker = L.marker([place.lat, place.lon]).addTo(map);
+                        marker.bindPopup(`
+                            <div class="text-center font-sans">
+                              <b class="text-lg text-blue-700">${name}</b><br>
+                              <button onclick="openForm('${name}')">Book Appointment</button>
+                            </div>
+                        `);
+                    });
+                })
+                .catch(error => showMessage("Failed to fetch nearby doctors. Please try again later."));
+        }, error => {
+            showMessage("Geolocation access denied or unavailable.");
+            console.error("Geolocation error:", error);
+        });
+    } else {
+        showMessage("Geolocation is not supported by your browser.");
+    }
+
+    function openForm(doctorName) {
+        document.getElementById('doctorName').value = doctorName;
+        document.getElementById('appointmentForm').classList.remove('hidden');
+    }
+    function closeForm() {
+        document.getElementById('appointmentForm').classList.add('hidden');
+    }
+    function submitAppointment() {
+        let doctor = document.getElementById('doctorName').value;
+        let name = document.getElementById('userName').value;
+        let phone = document.getElementById('userPhone').value;
+        let date = document.getElementById('appointmentDate').value;
+        if (!name || !phone || !date) {
+            showMessage("Please fill all fields.");
+            return;
+        }
+        showMessage(`✅ Appointment booked with ${doctor} on ${date}. We will contact you soon!`);
+        closeForm();
+    }
+</script>
+
+
+</body>
+</html>

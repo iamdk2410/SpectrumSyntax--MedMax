@@ -1,0 +1,510 @@
+symptom,keyword,medicine
+I have a headache since morning,head,Paracetamol 500mg; take after meals and stay hydrated
+My head hurts badly,head,Ibuprofen 400mg; sip warm water and rest in a quiet room
+Feeling pain in my head,head,Ibuprofen 400mg; relax in a dimly lit environment
+Sharp pain in my forehead,head,Paracetamol 500mg; avoid screen exposure and rest
+My head feels heavy and throbbing,head,Ibuprofen 400mg; practice deep breathing and light stretches
+Experiencing constant head pressure,head,Paracetamol 500mg; keep your head elevated and stay calm
+My temples are aching,head,Ibuprofen 400mg; apply a cool compress and relax
+Head is pounding and uncomfortable,head,Paracetamol 500mg; reduce noise and rest in a quiet place
+I feel dizzy with head pain,head,Ibuprofen 400mg; sip fluids slowly and lie down comfortably
+Mild headache after work,head,Paracetamol 500mg; take a short nap and avoid caffeine
+Throbbing pain around my head,head,Ibuprofen 400mg; practice gentle meditation and hydration
+Headache accompanied by nausea,head,Paracetamol 500mg; eat light food and rest in a calm room
+Pain in my skull region,head,Ibuprofen 400mg; maintain good posture and take breaks
+My head hurts after waking up,head,Paracetamol 500mg; stretch gently and drink warm water
+Persistent head discomfort,head,Ibuprofen 400mg; relax muscles and avoid bright lights
+I have a severe toothache, tooth,Clove oil applied to the affected tooth; rinse gently with warm water
+My tooth hurts badly, tooth,Benzocaine gel applied on the painful area; rest in a quiet room
+Pain in my upper tooth, tooth,Clove oil on the affected tooth; avoid very hot or cold foods
+My lower tooth is throbbing, tooth,Benzocaine gel; sip warm fluids and relax
+Sharp pain in my molar, tooth,Clove oil; apply gently and stay calm
+Tooth pain worsening at night, tooth,Benzocaine gel; keep head elevated and chew lightly
+My tooth feels sensitive, tooth,Clove oil; rinse mouth with warm salt water
+Pain in my teeth after eating, teeth,Benzocaine gel; avoid hard foods and gently massage jaw
+My teeth ache constantly, teeth,Clove oil; apply a cold compress outside the cheek
+Throbbing pain in my upper teeth, teeth,Benzocaine gel; sip warm water and rest quietly
+My lower teeth are hurting, teeth,Clove oil; chew carefully and rinse with warm water
+Sharp ache across my teeth, teeth,Benzocaine gel; relax jaw muscles and stay hydrated
+Sensitivity in my teeth when drinking cold, teeth,Clove oil; avoid very cold drinks and rinse mouth
+Pain in multiple teeth, teeth,Benzocaine gel; apply gently and rest in a dimly lit room
+I feel dizzy and lightheaded, dizziness,Ginger tea slowly sipped; rest in a comfortable position
+My head is spinning, dizziness,ORS or electrolyte solution; lie down and relax quietly
+Feeling off balance, dizziness,Ginger tea; avoid sudden movements and breathe deeply
+I am dizzy after standing up quickly, dizziness,ORS; sit down immediately and sip fluids
+Lightheaded and woozy, dizziness,Ginger tea; keep head elevated and take deep breaths
+Dizzy with nausea, dizziness,ORS; rest in a quiet and dimly lit room
+My surroundings are spinning, dizziness,Ginger tea; sip water slowly and stay seated
+I almost fainted after standing, faint,ORS; lie down and elevate legs slightly
+Feeling faint and weak, faint,Ginger tea; rest quietly and sip warm water
+I am going to pass out, faint,ORS; keep calm and breathe slowly
+Sudden faintness, faint,Ginger tea; sit down and avoid sudden movements
+Weak and about to faint, faint,ORS; elevate feet and rest
+My head feels light and I might faint, faint,Ginger tea; take slow breaths and relax
+Feeling close to passing out, faint,ORS; sip fluids slowly and lie down comfortably
+I have a twisted ankle, sprain,Ice pack applied to the affected area; elevate leg and rest
+My wrist is sprained, sprain,Pain relief gel applied gently; avoid movement and relax
+Painful sprain in my knee, sprain,Ice pack; keep leg elevated and stay calm
+I twisted my ankle badly, sprain,Pain relief gel; rest in a comfortable position
+Swelling in my sprained wrist, sprain,Ice pack; gently massage around area and avoid strain
+My knee sprain hurts a lot, sprain,Pain relief gel; elevate leg and sip warm water
+Sharp pain from ankle sprain, sprain,Ice pack; rest quietly and avoid walking
+My wrist is swollen after sprain, sprain,Pain relief gel; gently immobilize and stay relaxed
+Sprained my ankle while running, sprain,Ice pack; elevate foot and breathe deeply
+Knee feels weak and sprained, sprain,Pain relief gel; rest and avoid pressure
+Twisted my wrist during activity, sprain,Ice pack; keep hand elevated and relaxed
+Painful swelling from knee sprain, sprain,Pain relief gel; gentle compression and rest
+My ankle hurts from a sprain, sprain,Ice pack; apply intermittently and relax
+Sprained wrist causing discomfort, sprain,Pain relief gel; keep immobilized and calm
+Knee sprain after exercise, sprain,Ice pack; elevate leg and sip fluids slowly
+I have a dry cough, cough,Honey spooned slowly; drink warm water and rest
+Persistent cough bothering me, cough,Dextromethorphan syrup as directed; stay hydrated and avoid cold drinks
+My throat is itchy and I keep coughing, cough,Ambroxol syrup as directed; sip warm tea and relax
+Coughing continuously at night, cough,Honey; rest in an upright position
+I have a tickling cough, cough,Dextromethorphan syrup; avoid dusty areas and breathe deeply
+Severe cough causing discomfort, cough,Ambroxol syrup; keep throat moist and stay calm
+Dry cough making it hard to sleep, cough,Honey; sip warm water and rest quietly
+Wet cough with phlegm, cough,Dextromethorphan syrup; stay hydrated and gently massage chest
+My throat is sore from coughing, cough,Ambroxol syrup; avoid talking loudly and rest
+Coughing after cold exposure, cough,Honey; sip warm fluids and relax
+Tickling sensation in throat causing cough, cough,Dextromethorphan syrup; keep throat warm and breathe slowly
+I have a persistent morning cough, cough,Ambroxol syrup; stay hydrated and rest in a quiet room
+Cough with slight chest discomfort, cough,Honey; gently inhale steam and sip fluids
+Coughing fits during the day, cough,Dextromethorphan syrup; avoid irritants and rest
+Throat irritation causing frequent cough, cough,Ambroxol syrup; drink warm water and stay relaxed
+I have a sore throat, throat,Strepsils lozenge; sip warm water and rest
+My throat is hurting, throat,Benzydamine spray; stay hydrated and avoid cold drinks
+Painful throat while swallowing, throat,Warm saltwater gargle; breathe deeply and relax
+Throat irritation causing discomfort, throat,Strepsils lozenge; sip warm tea and stay calm
+Scratchy throat all day, throat,Benzydamine spray; avoid talking loudly and rest quietly
+Swollen throat making it painful to swallow, throat,Warm saltwater gargle; keep throat warm and hydrated
+Throat pain worse at night, throat,Strepsils lozenge; sip fluids and lie comfortably
+My throat feels raw, throat,Benzydamine spray; rest and avoid irritants
+Painful swallowing and throat dryness, throat,Warm saltwater gargle; breathe slowly and stay relaxed
+Sore throat after cold exposure, throat,Strepsils lozenge; sip warm water and rest
+I feel irritation in my throat, throat,Benzydamine spray; stay calm and hydrated
+Scratchiness causing coughing, throat,Warm saltwater gargle; relax in a quiet room
+Pain in the back of my throat, throat,Strepsils lozenge; avoid cold drinks and sip warm fluids
+Throat feels uncomfortable and dry, throat,Benzydamine spray; gentle gargle with warm water
+Persistent throat soreness, throat,Warm saltwater gargle; rest and keep throat warm
+I have pain all over my body, pain,Naproxen 250mg; rest and stay hydrated
+Muscle pain after exercise, pain,Diclofenac gel applied gently; avoid strenuous activity
+Back pain causing discomfort, pain,Naproxen 250mg; apply warm compress and relax
+Pain in my joints, pain,Diclofenac gel; gently massage area and rest
+Throbbing pain in my legs, pain,Naproxen 250mg; elevate legs and breathe slowly
+Pain in my shoulders and neck, pain,Diclofenac gel; gentle stretching and relax quietly
+Mild body aches today, pain,Naproxen 250mg; rest in a quiet room and sip warm fluids
+Sharp pain in my lower back, pain,Diclofenac gel; avoid heavy lifting and stay calm
+Persistent muscle soreness, pain,Naproxen 250mg; take short breaks and hydrate
+Pain in my arms after work, pain,Diclofenac gel; apply gently and rest
+Throbbing sensation in my knees, pain,Naproxen 250mg; elevate legs and relax
+Pain in my wrists and hands, pain,Diclofenac gel; gentle massage and stay calm
+Muscle stiffness and pain, pain,Naproxen 250mg; sip warm water and rest quietly
+Aching all over my body, pain,Diclofenac gel; apply on affected areas and relax
+Painful sensations in my joints, pain,Naproxen 250mg; keep area elevated and calm
+My eyes are itchy and red, eyes,Olopatadine eye drops; avoid rubbing and stay in a clean environment
+I feel irritation in my eyes, eyes,Artificial tears; rest eyes and blink frequently
+Burning sensation in my eyes, eyes,Olopatadine eye drops; stay away from dust and allergens
+Eyes watering constantly, eyes,Artificial tears; avoid screen glare and relax
+My eyes feel dry and uncomfortable, eyes,Olopatadine eye drops; keep eyes closed periodically
+I have redness in both eyes, eyes,Artificial tears; rest in a dimly lit room
+Itchy eyes making me rub them, eyes,Olopatadine eye drops; avoid touching eyes and blink slowly
+Burning and stinging in eyes, eyes,Artificial tears; stay hydrated and close eyes occasionally
+Eyes feel tired and irritated, eyes,Olopatadine eye drops; take breaks from screens
+Watery eyes after exposure to dust, eyes,Artificial tears; rinse with clean water and relax
+Redness and mild swelling in eyes, eyes,Olopatadine eye drops; avoid allergens and rest quietly
+Eyes feel scratchy and dry, eyes,Artificial tears; gently massage around eyes and blink frequently
+I have irritation in one eye, eyes,Olopatadine eye drops; stay in a clean environment and relax
+My eyes are sensitive to light, eyes,Artificial tears; wear sunglasses indoors and rest
+Itchy sensation in both eyes, eyes,Olopatadine eye drops; avoid rubbing and sip water
+I have a runny nose and sneezing, cold,Paracetamol 500mg; rest and drink warm fluids
+My nose is congested and I feel weak, cold,Cough syrup as directed; stay hydrated and avoid cold drinks
+Sneezing frequently with slight fever, cold,Paracetamol 500mg; sip warm tea and rest quietly
+I feel chills and mild fever, cold,Cough syrup; keep warm and breathe slowly
+Nose is blocked and throat is sore, cold,Paracetamol 500mg; stay relaxed and avoid cold exposure
+Mild headache and sneezing, cold,Cough syrup; rest in a quiet room and sip fluids
+I am feeling fatigued with cold symptoms, cold,Paracetamol 500mg; keep body warm and hydrated
+Runny nose with mild cough, cold,Cough syrup; relax and avoid strenuous activity
+Sneezing and watery eyes, cold,Paracetamol 500mg; stay calm and rest
+Throat irritation from a cold, cold,Cough syrup; sip warm water and avoid talking loudly
+Nasal congestion causing discomfort, cold,Paracetamol 500mg; inhale steam and rest
+I have chills and mild body ache, cold,Cough syrup; keep warm and drink warm fluids
+Persistent sneezing and runny nose, cold,Paracetamol 500mg; rest and stay hydrated
+Feeling weak and congested, cold,Cough syrup; avoid cold drinks and relax
+Cold with mild fever and headache, cold,Paracetamol 500mg; sip warm tea and rest quietly
+My nose is constantly dripping, nose,Saline nasal drops; gently clear nostrils and stay hydrated
+Sneezing and runny nose all day, nose,Cetirizine tablet; avoid dusty areas and rest quietly
+Nasal congestion with watery discharge, nose,Saline nasal drops; breathe slowly and relax
+Runny nose causing discomfort, nose,Cetirizine tablet; sip warm fluids and rest
+Persistent sneezing and nose dripping, nose,Saline nasal drops; avoid cold exposure and keep nostrils clean
+My nose feels blocked and watery, nose,Cetirizine tablet; stay calm and hydrated
+Watery nose after stepping outside, nose,Saline nasal drops; gently clear nostrils and rest
+Sneezing fits and runny nose, nose,Cetirizine tablet; stay away from allergens and relax
+Nose running with slight irritation, nose,Saline nasal drops; keep nostrils clean and breathe deeply
+I have nasal drip and discomfort, nose,Cetirizine tablet; sip warm water and stay relaxed
+Runny nose after cold exposure, nose,Saline nasal drops; gently clean and rest
+My nose keeps dripping at night, nose,Cetirizine tablet; rest in a comfortable position
+Persistent watery nose and sneezing, nose,Saline nasal drops; keep warm and hydrated
+Nasal irritation with runny nose, nose,Cetirizine tablet; avoid allergens and relax
+Runny nose making me uncomfortable, nose,Saline nasal drops; gently clear nostrils and rest quietly
+My nasal passages feel blocked, nasal,Saline nasal drops; gently clear nostrils and breathe slowly
+I have nasal congestion, nasal,Cetirizine tablet; avoid dust and allergens and stay relaxed
+Nose feels stuffed and irritated, nasal,Saline nasal drops; sip warm fluids and rest quietly
+Persistent nasal blockage, nasal,Cetirizine tablet; keep nostrils clean and stay calm
+Swelling inside my nasal passages, nasal,Saline nasal drops; gently rinse and breathe deeply
+My nasal cavity is uncomfortable, nasal,Cetirizine tablet; avoid cold exposure and relax
+Nasal congestion after cold exposure, nasal,Saline nasal drops; clear nostrils gently and rest
+I feel irritation inside my nose, nasal,Cetirizine tablet; stay hydrated and calm
+Stuffed nasal passages making it hard to breathe, nasal,Saline nasal drops; breathe slowly and relax
+Nasal discomfort with slight itchiness, nasal,Cetirizine tablet; avoid allergens and rest
+Blocked nose causing difficulty in breathing, nasal,Saline nasal drops; keep nostrils clean and breathe deeply
+I have irritation and swelling in nasal cavity, nasal,Cetirizine tablet; sip warm water and rest quietly
+Nasal passages feel dry and uncomfortable, nasal,Saline nasal drops; stay hydrated and relax
+Sneezing with nasal blockage, nasal,Cetirizine tablet; avoid dust and allergens and breathe slowly
+My nasal passages are irritated and swollen, nasal,Saline nasal drops; gently rinse and rest calmly
+Red rashes appearing on my skin, skin,Hydrocortisone cream applied gently; avoid scratching and keep area clean
+Itchy skin rash spreading slowly, skin,Calamine lotion; apply lightly and avoid irritants
+My skin feels irritated and red, skin,Hydrocortisone cream; rest and avoid hot water on affected area
+Rashes causing discomfort on my arms, skin,Calamine lotion; keep skin dry and cool
+Itchy red bumps on skin, skin,Hydrocortisone cream; avoid scratching and stay calm
+Skin rash with slight swelling, skin,Calamine lotion; apply gently and keep area clean
+I have patches of redness on my skin, skin,Hydrocortisone cream; avoid tight clothing and relax
+Skin irritation causing itchiness, skin,Calamine lotion; stay hydrated and avoid irritants
+Red inflamed rash on my legs, skin,Hydrocortisone cream; apply gently and rest
+Itchy spots on skin making me uncomfortable, skin,Calamine lotion; keep area clean and avoid scratching
+Rashes appearing suddenly on my torso, skin,Hydrocortisone cream; avoid harsh soaps and relax
+I have itchy patches on my skin, skin,Calamine lotion; gently apply and keep skin cool
+Skin redness after exposure to allergen, skin,Hydrocortisone cream; avoid allergen and rest quietly
+I feel irritation and bumps on skin, skin,Calamine lotion; apply lightly and stay calm
+Itchy red rash on my back, skin,Hydrocortisone cream; keep area clean and avoid scratching
+I am having trouble falling asleep, sleep,Melatonin 3mg before bedtime; maintain a dark and quiet room
+Difficulty sleeping at night, sleep,Improve sleep hygiene; avoid screens and caffeine in the evening
+Can't seem to sleep, sleep,Melatonin 3mg; practice deep breathing and relax
+Restless nights and tossing in bed, sleep,Improve sleep hygiene; maintain consistent sleep schedule and calm environment
+Sleep eludes me despite being tired, sleep,Melatonin 3mg; keep room dark and avoid noise
+Unable to sleep properly, sleep,Improve sleep hygiene; avoid heavy meals before bed and relax
+I wake up multiple times at night, sleep,Melatonin 3mg; dim lights and practice calm breathing
+Restless sleep and frequent waking, sleep,Improve sleep hygiene; maintain quiet and comfortable environment
+Difficulty staying asleep, sleep,Melatonin 3mg; keep a regular bedtime routine and relax
+I feel tired but can't sleep, sleep,Improve sleep hygiene; limit screen time and create a peaceful room
+Trouble sleeping due to racing thoughts, sleep,Melatonin 3mg; practice meditation and deep breathing
+Can't get a full night's rest, sleep,Improve sleep hygiene; avoid caffeine late and keep room dark
+I lie awake at night, sleep,Melatonin 3mg; relax with calm music and dim lighting
+Sleepiness during day but awake at night, sleep,Improve sleep hygiene; maintain consistent sleep-wake cycle
+Difficulty initiating and maintaining sleep, sleep,Melatonin 3mg; reduce noise and maintain dark environment
+I feel sleepy all day, excessive_sleep,Improve sleep hygiene; maintain regular sleep schedule and avoid long naps
+Always drowsy despite sleeping enough, excessive_sleep,Lifestyle adjustments; take short walks and get morning sunlight
+Feeling tired and wanting to sleep constantly, excessive_sleep,Improve sleep hygiene; avoid late-night screen exposure
+Can't stay awake during day, excessive_sleep,Lifestyle adjustments; sip water, stretch, and stay active
+Excessive sleepiness interfering with work, excessive_sleep,Improve sleep hygiene; keep room bright in the morning
+Sleepy even after full night’s rest, excessive_sleep,Lifestyle adjustments; take brief outdoor walks and avoid heavy meals
+Always feeling drowsy, excessive_sleep,Improve sleep hygiene; maintain consistent sleep-wake cycle
+Falling asleep unexpectedly, excessive_sleep,Lifestyle adjustments; expose to natural light and stay active
+I feel lethargic and sleepy, excessive_sleep,Improve sleep hygiene; avoid late caffeine and take brief breaks
+Constant desire to nap, excessive_sleep,Lifestyle adjustments; short walks and fresh air exposure
+Difficulty staying alert during the day, excessive_sleep,Improve sleep hygiene; sleep and wake at fixed times
+Always tired and drowsy, excessive_sleep,Lifestyle adjustments; stretch and moderate caffeine intake
+Feeling sleepy at work or school, excessive_sleep,Improve sleep hygiene; limit screen time before bed
+Oversleeping and still tired, excessive_sleep,Lifestyle adjustments; get sunlight and stay physically active
+I keep feeling the need to sleep, excessive_sleep,Improve sleep hygiene; maintain quiet and dark sleep environment
+I have no desire to eat, food,Small frequent meals; sip water and eat light nutritious food
+Losing my appetite completely, food,Ginger tea before meals; try light snacks and stay hydrated
+I feel full quickly and can't eat, food,Small frequent meals; eat soft foods and relax
+No interest in food, food,Ginger tea; consume light nutritious meals slowly
+Can't eat much these days, food,Small frequent meals; avoid heavy meals and sip fluids
+Loss of appetite and feeling weak, food,Ginger tea; eat small snacks and stay calm
+I feel nauseous and don't want food, food,Small frequent meals; choose easily digestible foods
+Lack of appetite for regular meals, food,Ginger tea; eat soft fruits and light meals
+I feel uninterested in eating, food,Small frequent meals; stay hydrated and eat nutritious snacks
+No hunger at all, food,Ginger tea; sip warm fluids and eat small portions
+My appetite has decreased, food,Small frequent meals; eat slowly and relax
+I am avoiding food due to discomfort, food,Ginger tea; try light meals and stay calm
+Feeling weak because of no appetite, food,Small frequent meals; eat soft foods and sip water
+Can't bring myself to eat, food,Ginger tea; take small snacks and stay hydrated
+I feel empty stomach but no hunger, food,Small frequent meals; eat easily digestible foods and relax
+I am feeling nauseous and vomiting, vomiting,Ondansetron 4mg as directed; sip water slowly and rest
+Frequent vomiting after eating, vomiting,Sip water or ORS; avoid solid food and stay calm
+I can't keep food down, vomiting,Ondansetron 4mg; rest in a quiet room and take small sips of water
+Vomiting with nausea, vomiting,Sip water or ORS; stay hydrated and relax
+Throwing up repeatedly, vomiting,Ondansetron 4mg; sip fluids slowly and avoid strenuous activity
+I feel like vomiting constantly, vomiting,Sip water or ORS; rest and take deep breaths
+Nausea followed by vomiting, vomiting,Ondansetron 4mg; avoid strong smells and sip water gradually
+Cannot stop vomiting, vomiting,Sip water or ORS; stay calm and rest quietly
+Feeling weak due to vomiting, vomiting,Ondansetron 4mg; drink fluids slowly and stay comfortable
+Vomiting after meals, vomiting,Sip water or ORS; avoid solid foods and relax
+I am vomiting and feel dizzy, vomiting,Ondansetron 4mg; sip fluids carefully and rest
+Persistent vomiting all day, vomiting,Sip water or ORS; stay hydrated and avoid exertion
+Sudden urge to vomit, vomiting,Ondansetron 4mg; sit quietly and sip water
+Vomiting with stomach discomfort, vomiting,Sip water or ORS; rest in a calm environment
+I have loose stools frequently, diarrhea,ORS; sip water regularly and rest
+Diarrhea with stomach cramps, diarrhea,Loperamide 2mg as directed; avoid oily foods and stay hydrated
+Frequent watery stools, diarrhea,ORS; take small sips and avoid cold drinks
+I am having diarrhea since morning, diarrhea,Loperamide 2mg; rest in a calm environment and stay hydrated
+Stomach upset with diarrhea, diarrhea,ORS; drink fluids slowly and eat light foods
+Diarrhea making me weak, diarrhea,Loperamide 2mg; sip water and avoid heavy meals
+Loose stools after meals, diarrhea,ORS; keep hydrated and rest quietly
+I can't control frequent diarrhea, diarrhea,Loperamide 2mg; sit comfortably and sip fluids
+Diarrhea with nausea, diarrhea,ORS; drink small amounts frequently and relax
+Persistent diarrhea all day, diarrhea,Loperamide 2mg; stay calm and avoid solid foods temporarily
+Watery stools causing discomfort, diarrhea,ORS; sip ORS slowly and rest
+Diarrhea with abdominal pain, diarrhea,Loperamide 2mg; keep hydrated and avoid exertion
+Frequent bowel movements and weakness, diarrhea,ORS; drink fluids and stay relaxed
+Diarrhea after eating, diarrhea,Loperamide 2mg; avoid spicy foods and rest quietly
+Loose and watery stools, diarrhea,ORS; sip water and maintain calm
+I have pimples on my face, pimples,Benzoyl Peroxide cream; apply gently and avoid touching
+Small pimples appearing on cheeks, pimples,Salicylic acid face wash; wash face twice daily and stay hydrated
+Red pimples on forehead, pimples,Benzoyl Peroxide cream; keep area clean and avoid makeup
+Pimples causing irritation, pimples,Salicylic acid face wash; gently cleanse and avoid scratching
+Whiteheads and pimples on chin, pimples,Benzoyl Peroxide cream; apply at night and avoid touching
+Pimples with mild redness, pimples,Salicylic acid face wash; wash face and stay calm
+Acne breakouts on nose, pimples,Benzoyl Peroxide cream; apply lightly and avoid picking
+Tiny pimples on jawline, pimples,Salicylic acid face wash; rinse face gently and keep skin moisturized
+Pimples forming on forehead and cheeks, pimples,Benzoyl Peroxide cream; apply carefully and avoid irritants
+Red and inflamed pimples, pimples,Salicylic acid face wash; gently cleanse and rest
+Pimples after stress, pimples,Benzoyl Peroxide cream; apply at night and avoid heavy creams
+Breakout of small pimples, pimples,Salicylic acid face wash; rinse and keep skin calm
+Pimples with slight swelling, pimples,Benzoyl Peroxide cream; avoid touching and stay hydrated
+Clogged pores causing pimples, pimples,Salicylic acid face wash; wash gently and relax
+Pimples appearing suddenly, pimples,Benzoyl Peroxide cream; apply lightly and maintain clean skin
+My hair is falling out a lot, hair,Minoxidil 5% solution; apply gently and massage scalp
+Excessive hair shedding, hair,Biotin supplements; take daily with meals and stay hydrated
+Hair falling after shampoo, hair,Minoxidil 5% solution; apply carefully and avoid scratching
+Thinning hair on scalp, hair,Biotin supplements; maintain healthy diet and relax
+Hair strands falling while brushing, hair,Minoxidil 5% solution; massage scalp and avoid harsh products
+Noticeable hair fall recently, hair,Biotin supplements; stay hydrated and avoid stress
+Hair loss at the temples, hair,Minoxidil 5% solution; apply lightly and keep scalp clean
+Falling hair after styling, hair,Biotin supplements; take daily and eat protein-rich foods
+Scalp hair thinning rapidly, hair,Minoxidil 5% solution; massage scalp gently and stay calm
+Hair falling in clumps, hair,Biotin supplements; maintain regular intake and rest
+Hair loss after illness, hair,Minoxidil 5% solution; apply at night and avoid harsh chemicals
+Thinning strands all over scalp, hair,Biotin supplements; stay healthy and hydrated
+Hair falling excessively in morning, hair,Minoxidil 5% solution; massage scalp and avoid heat styling
+Weak hair roots causing fall, hair,Biotin supplements; take daily and reduce stress
+Sudden hair loss, hair,Minoxidil 5% solution; apply gently and keep scalp clean
+I have dandruff on my scalp, dandruff,Ketoconazole shampoo; apply gently and rinse thoroughly
+Flakes falling from my hair, dandruff,Zinc Pyrithione shampoo; use twice a week and massage scalp
+Scalp itching with dandruff, dandruff,Ketoconazole shampoo; leave on for 5 minutes and rinse
+White flakes visible on hair, dandruff,Zinc Pyrithione shampoo; massage scalp gently and rinse
+Persistent dandruff for weeks, dandruff,Ketoconazole shampoo; apply at night and avoid styling products
+Scalp peeling and itchy, dandruff,Zinc Pyrithione shampoo; wash hair twice weekly and stay hydrated
+Dry scalp with flakes, dandruff,Ketoconazole shampoo; massage and rinse well
+Hair and scalp have visible dandruff, dandruff,Zinc Pyrithione shampoo; gently apply and rinse thoroughly
+Itchy scalp causing flakes, dandruff,Ketoconazole shampoo; leave on scalp for few minutes and rinse
+White powdery flakes on shoulders, dandruff,Zinc Pyrithione shampoo; use regularly and avoid harsh shampoos
+Scalp feels dry and flaky, dandruff,Ketoconazole shampoo; massage gently and rinse
+Hair shedding with dandruff, dandruff,Zinc Pyrithione shampoo; apply carefully and rinse
+Flakes appearing suddenly, dandruff,Ketoconazole shampoo; use twice a week and stay calm
+Scalp irritation and dandruff, dandruff,Zinc Pyrithione shampoo; massage and rinse thoroughly
+Persistent itchy scalp, dandruff,Ketoconazole shampoo; apply gently and keep scalp clean
+I have a high temperature, fever,Paracetamol 500mg; rest in a quiet room and drink warm fluids
+Feeling feverish and weak, fever,Ibuprofen 400mg after meals; keep hydrated and avoid cold drinks
+Mild fever since morning, fever,Paracetamol 500mg; sip warm water and rest
+Shivering with a slight fever, fever,Ibuprofen 400mg; stay in a warm room and relax
+Body feels hot and tired, fever,Paracetamol 500mg; rest and avoid strenuous activity
+Fever causing headaches, fever,Ibuprofen 400mg; sip warm fluids and stay calm
+Temperature rising suddenly, fever,Paracetamol 500mg; stay hydrated and rest quietly
+Feeling feverish and sweaty, fever,Ibuprofen 400mg; keep room ventilated and relax
+Mild fever with body ache, fever,Paracetamol 500mg; drink warm fluids and rest
+Hot and uncomfortable feeling, fever,Ibuprofen 400mg; stay calm and hydrated
+Fever with chills and weakness, fever,Paracetamol 500mg; keep warm and sip water slowly
+Slight temperature with fatigue, fever,Ibuprofen 400mg; rest and avoid heavy activity
+Feeling very warm and tired, fever,Paracetamol 500mg; stay in a quiet room and hydrate
+High fever with headache, fever,Ibuprofen 400mg; sip fluids and rest comfortably
+Fever causing body discomfort, fever,Paracetamol 500mg; keep warm and avoid strenuous activity
+I have a stomach ache, stomach,Antacids as directed; sip warm water and rest
+Pain in my lower abdomen, stomach,Peppermint oil; apply gently and relax
+Stomach cramping since morning, stomach,Antacids; take after meals and stay hydrated
+Feeling bloated with stomach discomfort, stomach,Peppermint oil; use warm compress and relax
+Sharp pain in my stomach, stomach,Antacids; sip warm fluids and rest quietly
+Mild abdominal pain, stomach,Peppermint oil; gently massage and stay calm
+Stomach upset causing discomfort, stomach,Antacids; avoid heavy meals and rest
+Bloating and mild cramps, stomach,Peppermint oil; apply warm compress and breathe slowly
+Ache in lower abdomen, stomach,Antacids; sip water and relax
+Painful stomach after eating, stomach,Peppermint oil; rest and avoid solid food temporarily
+Stomach feels heavy and uncomfortable, stomach,Antacids; stay hydrated and calm
+Cramping in stomach after meals, stomach,Peppermint oil; apply gently and relax
+Persistent mild stomach ache, stomach,Antacids; sip warm fluids and stay comfortable
+Stomach pain with nausea, stomach,Peppermint oil; rest in a quiet room and relax
+Discomfort in my stomach, stomach,Antacids; avoid spicy food and stay calm
+I feel nauseous, nausea,Ondansetron 4mg as directed; sip water slowly and rest
+Stomach feels upset with nausea, nausea,Ginger tea; sip warm ginger tea slowly and relax
+Feeling like vomiting, nausea,Ondansetron 4mg; stay calm and rest in a quiet room
+Nausea after meals, nausea,Ginger tea; sip warm fluids and avoid heavy foods
+Sudden waves of nausea, nausea,Ondansetron 4mg; sit quietly and sip water
+Mild nausea throughout the day, nausea,Ginger tea; take small sips and stay calm
+Feeling queasy, nausea,Ondansetron 4mg; rest and avoid strong odors
+Persistent nausea since morning, nausea,Ginger tea; sip ginger tea and relax
+Nausea causing discomfort, nausea,Ondansetron 4mg; stay hydrated and rest quietly
+Stomach upset with queasy feeling, nausea,Ginger tea; sip fluids slowly and remain calm
+Feeling unwell and nauseous, nausea,Ondansetron 4mg; avoid heavy food and rest
+Nausea after drinking water, nausea,Ginger tea; sip slowly and relax
+I feel dizzy and nauseous, nausea,Ondansetron 4mg; rest in a quiet room and sip water
+Mild queasiness in stomach, nausea,Ginger tea; drink warm fluids and stay calm
+Feeling sick to stomach, nausea,Ondansetron 4mg; sit quietly and sip water slowly
+I feel mild pain in my chest, chest,Aspirin 75mg; take after meals and rest calmly. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Chest discomfort when bending, chest,Rest and deep breathing; sit quietly and breathe slowly. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Sharp sensation in chest occasionally, chest,Aspirin 75mg; sip warm fluids and stay calm. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Pressure feeling in chest, chest,Rest and deep breathing; avoid strenuous activity and relax. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Mild ache in chest area, chest,Aspirin 75mg; keep comfortable and rest. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Chest pain after physical exertion, chest,Rest and deep breathing; sit quietly and relax. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Slight burning sensation in chest, chest,Aspirin 75mg; take after meals and stay calm. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Feeling tightness in chest, chest,Rest and deep breathing; breathe slowly and maintain calm. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Mild chest discomfort at night, chest,Aspirin 75mg; rest in a comfortable position. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Chest ache when stressed, chest,Rest and deep breathing; relax and take slow breaths. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Occasional pain in chest area, chest,Aspirin 75mg; sip water and stay calm. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Chest feels heavy sometimes, chest,Rest and deep breathing; maintain calm and sit quietly. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Ache in chest after meals, chest,Aspirin 75mg; keep comfortable and rest. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Chest discomfort with mild tightness, chest,Rest and deep breathing; avoid stress and breathe slowly. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+Slight pain in chest intermittently, chest,Aspirin 75mg; sit calmly and take deep breaths. Note: Severe chest pain can be a medical emergency. These suggestions are for mild, non-cardiac discomfort only.
+I have leg cramps at night, cramps,Magnesium supplement; take after meals and stay hydrated
+Muscle cramps in calves, cramps,Warm compress; gently massage and relax muscles
+Sudden cramps in thighs, cramps,Magnesium supplement; sip water and rest calmly
+Painful cramps in arms, cramps,Warm compress; stretch muscles gently and relax
+Frequent leg cramps, cramps,Magnesium supplement; maintain electrolyte balance and rest
+Cramps after exercise, cramps,Warm compress; massage and stay calm
+Abdominal cramps after meals, cramps,Magnesium supplement; sip warm fluids and relax
+Thigh muscles feel cramped, cramps,Warm compress; apply gently and breathe slowly
+Severe calf cramps, cramps,Magnesium supplement; rest and hydrate
+Muscle tightening causing cramps, cramps,Warm compress; stretch gently and stay relaxed
+Cramps in feet while sleeping, cramps,Magnesium supplement; take after meals and relax
+Painful arm cramps, cramps,Warm compress; gently massage and stay calm
+Leg cramps causing discomfort, cramps,Magnesium supplement; sip fluids and rest quietly
+Cramps in stomach area, cramps,Warm compress; relax and breathe slowly
+Persistent muscle cramps, cramps,Magnesium supplement; maintain electrolyte balance and rest calmly
+I sweat excessively even without activity, sweating,Antiperspirant; apply at night and keep skin dry
+Sweating heavily during day, sweating,Stay hydrated; wear breathable cotton clothing and relax
+Hands and feet sweat a lot, sweating,Antiperspirant; apply carefully and keep area dry
+Excessive sweating during mild exertion, sweating,Stay hydrated; sip water and wear light clothing
+Sweating in armpits constantly, sweating,Antiperspirant; apply after shower and stay cool
+Heavy sweating even at rest, sweating,Stay hydrated; avoid tight clothing and keep calm
+Sweaty palms interfering with tasks, sweating,Antiperspirant; apply gently and keep hands dry
+Sweating excessively in office, sweating,Stay hydrated; wear breathable clothes and relax
+Night sweats frequently, sweating,Antiperspirant; use before bed and keep bedroom cool
+Sweating after small efforts, sweating,Stay hydrated; sip water and wear loose clothing
+Face and back sweating a lot, sweating,Antiperspirant; apply lightly and keep skin clean
+Sweating causing discomfort in heat, sweating,Stay hydrated; wear light fabrics and rest calmly
+Hands and feet dripping sweat, sweating,Antiperspirant; apply gently and keep dry
+Sweating without reason, sweating,Stay hydrated; avoid tight fabrics and stay relaxed
+Excessive sweating making me uncomfortable, sweating,Antiperspirant; apply at night and maintain calm
+Swelling on my hands, swelling,Cold compress; apply gently and keep area elevated
+Red swollen patches on skin, swelling,Hydrocortisone cream 1%; apply lightly and avoid scratching
+Puffy area on my arm, swelling,Cold compress; keep elevated and rest calmly
+Swollen skin around ankle, swelling,Hydrocortisone cream 1%; apply gently and keep area clean
+Swelling with redness on leg, swelling,Cold compress; apply for 10 minutes and relax
+I have swollen bumps on skin, swelling,Hydrocortisone cream 1%; massage lightly and avoid irritation
+Swelling on face near eyes, swelling,Cold compress; apply carefully and keep area calm
+Red and swollen skin on back, swelling,Hydrocortisone cream 1%; gently apply and rest
+Swollen fingers causing discomfort, swelling,Cold compress; elevate and keep area clean
+Swelling after insect bite, swelling,Hydrocortisone cream 1%; apply lightly and avoid scratching
+Puffy skin on arms and legs, swelling,Cold compress; apply gently and relax
+Skin swelling with itchiness, swelling,Hydrocortisone cream 1%; massage lightly and keep area dry
+Swollen area after minor injury, swelling,Cold compress; apply intermittently and rest
+Red swollen patches on hands, swelling,Hydrocortisone cream 1%; apply gently and avoid friction
+Swelling on my legs, swelling,Cold compress; elevate and stay calm
+I got bitten by an insect, insect,Hydrocortisone cream 1%; apply lightly and avoid scratching
+Red itchy insect bite on arm, insect,Cetirizine 10mg; take as directed and stay calm
+Swollen insect bite on leg, insect,Hydrocortisone cream 1%; apply gently and keep area clean
+Itchy mosquito bite, insect,Cetirizine 10mg; take with water and avoid scratching
+Insect bite causing redness, insect,Hydrocortisone cream 1%; apply lightly and rest
+Painful bite on hand, insect,Cetirizine 10mg; take as directed and stay relaxed
+Swelling from insect sting, insect,Hydrocortisone cream 1%; apply gently and keep elevated
+Red bumps from insect bite, insect,Cetirizine 10mg; take with water and avoid irritants
+Itchy swelling from bite, insect,Hydrocortisone cream 1%; massage lightly and keep area calm
+Bite marks on skin, insect,Cetirizine 10mg; take as directed and relax
+Insect bite causing discomfort, insect,Hydrocortisone cream 1%; apply lightly and avoid friction
+Swollen itchy area from bite, insect,Cetirizine 10mg; stay calm and avoid scratching
+Red and swollen insect bite, insect,Hydrocortisone cream 1%; apply gently and keep area clean
+Itchy bites on arms and legs, insect,Cetirizine 10mg; take with water and relax
+Insect sting causing pain, insect,Hydrocortisone cream 1%; apply lightly and avoid rubbing
+My face is very oily, oily,Salicylic acid face wash; wash twice daily and avoid touching face
+Oily T-zone on my face, oily,Oil-free moisturizer; apply gently and keep skin clean
+Excess oil making my skin shiny, oily,Salicylic acid face wash; rinse thoroughly and stay hydrated
+Oily cheeks and forehead, oily,Oil-free moisturizer; apply lightly and avoid heavy creams
+Face gets greasy quickly, oily,Salicylic acid face wash; wash regularly and pat dry
+Oily skin causing breakouts, oily,Oil-free moisturizer; apply gently and keep skin calm
+Shiny skin on face, oily,Salicylic acid face wash; wash twice daily and avoid friction
+Excessive oiliness on forehead, oily,Oil-free moisturizer; apply lightly and stay hydrated
+Oily patches on chin and nose, oily,Salicylic acid face wash; rinse well and keep skin clean
+Skin feels greasy, oily,Oil-free moisturizer; apply gently and avoid touching frequently
+Face gets oily in afternoons, oily,Salicylic acid face wash; wash regularly and relax
+Oily skin causing clogged pores, oily,Oil-free moisturizer; apply lightly and maintain calm
+Shiny forehead and nose, oily,Salicylic acid face wash; rinse thoroughly and keep area clean
+Oily skin after washing, oily,Oil-free moisturizer; apply gently and avoid heavy makeup
+Greasy skin throughout day, oily,Salicylic acid face wash; wash twice daily and stay calm
+I keep having bad dreams at night, nightmares,Improve sleep hygiene; maintain regular sleep schedule and avoid screens before bed
+Frequent nightmares disturbing my sleep, nightmares,Relaxation techniques; meditate or do deep breathing before sleep
+Nightmares waking me up suddenly, nightmares,Improve sleep hygiene; go to bed at same time daily and stay calm
+Scary dreams almost every night, nightmares,Relaxation techniques; read a light book or practice calm breathing
+I have vivid nightmares often, nightmares,Improve sleep hygiene; avoid caffeine and screens in evening
+Disturbing dreams during sleep, nightmares,Relaxation techniques; meditate or listen to soothing music
+Nightmares causing anxiety, nightmares,Improve sleep hygiene; maintain consistent sleep routine and calm environment
+I wake up from scary dreams, nightmares,Relaxation techniques; practice deep breathing and calm thoughts
+Recurring nightmares at night, nightmares,Improve sleep hygiene; go to bed early and avoid screen time
+Frightening dreams affecting my rest, nightmares,Relaxation techniques; light reading and relaxation exercises
+I remember bad dreams every morning, nightmares,Improve sleep hygiene; keep room dark and quiet for sleep
+Nightmares making me anxious, nightmares,Relaxation techniques; meditate or do gentle stretches before bed
+Frequent disturbing dreams, nightmares,Improve sleep hygiene; avoid heavy meals and screens before sleep
+I feel scared after nightmares, nightmares,Relaxation techniques; listen to calming music or do deep breathing
+Nightmares interrupting my sleep, nightmares,Improve sleep hygiene; maintain regular bedtime and relaxing pre-sleep routine
+I snore loudly at night, snoring,Sleep on your side; avoid sleeping on your back and stay relaxed
+Loud snoring disturbing my sleep, snoring,Nasal decongestants; use as directed and maintain calm
+Snoring every night, snoring,Sleep position adjustment; keep head slightly elevated and breathe slowly
+I snore heavily when tired, snoring,Humidifier; keep room moist and relax before sleep
+Snoring waking my partner, snoring,Sleep on your side; avoid alcohol before bed and stay calm
+Frequent snoring at night, snoring,Nasal decongestants; use gently and breathe slowly
+Snoring with mouth open, snoring,Sleep position adjustment; sleep on side and stay relaxed
+I have noisy breathing during sleep, snoring,Humidifier; maintain comfortable humidity and relax
+Snoring interrupts my sleep, snoring,Sleep on your side; keep pillows elevated and breathe calmly
+Loud snoring after dinner, snoring,Nasal decongestants; use as needed and stay calm
+Snoring causing morning headache, snoring,Sleep position adjustment; maintain side-sleeping and relax
+Heavy snoring during naps, snoring,Humidifier; keep room air moist and breathe slowly
+Snoring mostly at night, snoring,Sleep on your side; avoid back-sleeping and stay calm
+I snore frequently, snoring,Nasal decongestants; use carefully and maintain relaxed posture
+Snoring disturbing deep sleep, snoring,Sleep position adjustment; elevate head slightly and stay calm
+I injured my knee and feel pain, acl,R.I.C.E method; rest, apply ice, and elevate leg. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Knee pain after sudden twist, acl,Physiotherapy; perform strengthening exercises as advised. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Pain and swelling in knee, acl,R.I.C.E method; compress knee gently and rest. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+I feel instability in knee while walking, acl,Physiotherapy; do gentle exercises and follow guidance. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Knee pain after sports injury, acl,R.I.C.E method; apply ice and elevate leg. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Difficulty bending my knee, acl,Physiotherapy; perform guided strengthening routines. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Knee swelling after sudden movement, acl,R.I.C.E method; rest and compress knee gently. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Feeling weak in knee, acl,Physiotherapy; do stretching and strengthening exercises carefully. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Pain and instability in knee joint, acl,R.I.C.E method; elevate leg and rest. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Knee giving way while walking, acl,Physiotherapy; follow exercise routine and stay calm. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Sudden knee pain with swelling, acl,R.I.C.E method; ice and compress gently. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Difficulty walking after knee injury, acl,Physiotherapy; perform strengthening and balance exercises. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Knee feels unstable after sports, acl,R.I.C.E method; rest, ice, and elevate leg. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Pain during knee movement, acl,Physiotherapy; follow guided rehab exercises carefully. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+Swelling and tenderness in knee, acl,R.I.C.E method; compress and rest leg gently. Note: Severe ACL tears may require surgical intervention; consult an orthopedic specialist.
+I have cramps during my period, menstrual,Ibuprofen 400mg; take after meals and rest calmly
+Lower abdominal cramps during menstruation, menstrual,Heat therapy; apply warm compress and relax
+Severe cramps at night, menstrual,Ibuprofen 400mg; take as directed and stay calm
+Painful period cramps, menstrual,Heat therapy; place warm compress on abdomen and breathe slowly
+Abdominal pain during menstruation, menstrual,Ibuprofen 400mg; stay hydrated and rest
+Menstrual cramps causing discomfort, menstrual,Heat therapy; apply warmth and relax muscles
+Cramps with lower back pain, menstrual,Ibuprofen 400mg; take after meals and stay calm
+Mild but persistent cramps, menstrual,Heat therapy; use warm compress and maintain calm
+Severe lower abdomen cramps, menstrual,Ibuprofen 400mg; rest and sip warm fluids
+Painful cramps affecting daily routine, menstrual,Heat therapy; apply heat gently and relax
+Menstrual pain with bloating, menstrual,Ibuprofen 400mg; take as directed and stay hydrated
+Cramps causing nausea, menstrual,Heat therapy; use warm compress and relax quietly
+Sharp cramps during periods, menstrual,Ibuprofen 400mg; rest calmly and sip fluids
+Continuous abdominal cramps, menstrual,Heat therapy; apply warmth and breathe slowly
+Cramps interfering with sleep, menstrual,Ibuprofen 400mg; take after meals and relax
+I have a small cut and it’s bleeding, bleeding,Apply pressure and clean wound; keep calm. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Nosebleed started suddenly, bleeding,Elevation & cold compress; hold head upright and relax. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Bleeding from a minor scratch, bleeding,Apply pressure and clean wound; stay calm. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Small cut on finger bleeding, bleeding,Elevation & cold compress; hold finger up and relax. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Bleeding from minor wound on arm, bleeding,Apply pressure and clean wound; keep area clean. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Nose is bleeding after injury, bleeding,Elevation & cold compress; pinch nose gently and stay calm. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Blood from small cut on leg, bleeding,Apply pressure and clean wound; maintain calm. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Minor bleeding after shaving, bleeding,Elevation & cold compress; apply gentle pressure and relax. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Bleeding from small puncture, bleeding,Apply pressure and clean wound; stay calm and hygienic. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Cuts on hand causing bleeding, bleeding,Elevation & cold compress; keep hand raised and relax. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Light bleeding after bite, bleeding,Apply pressure and clean wound; maintain calm. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Nosebleed during night, bleeding,Elevation & cold compress; stay calm and hold head upright. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Small scratches on skin bleeding, bleeding,Apply pressure and clean wound; keep area sterile. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Bleeding from minor injury on leg, bleeding,Elevation & cold compress; apply gentle pressure and relax. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Cuts causing light bleeding, bleeding,Apply pressure and clean wound; remain calm. Note: Severe or uncontrolled bleeding is a medical emergency; seek immediate medical attention.
+Hi,hi,Hello give out your symptoms
+Hello,hello,Hello give out your symptoms
